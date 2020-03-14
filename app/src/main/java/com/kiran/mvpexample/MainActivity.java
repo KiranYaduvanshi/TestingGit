@@ -64,6 +64,9 @@ public class MainActivity extends AppCompatActivity implements EmployeePresentat
     @Override
     public void onEmpListLoading() {
         dialog.show();
+    }
+
+    public void testing(){
 
     }
 }
